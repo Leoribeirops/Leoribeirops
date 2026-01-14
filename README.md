@@ -48,17 +48,17 @@ This work supports **next-generation wearable medical devices**. :contentReferen
 
 ### 📄 Publications (IEEE)
 
-- *Low-Power Truncated Pan-Tompkins Architecture Exploring Approximate Radix-2m Squaring Units*  
-  IEEE Design & Test — 2025  
-  DOI: 10.1109/MDAT.2025.3600359 :contentReference[oaicite:2]{index=2}  
+- **Low-Power Truncated Pan-Tompkins Architecture Exploring Approximate Radix-2m Squaring Units**  
+  *IEEE Design & Test — 2025*  
+  [![DOI](https://img.shields.io/badge/DOI-10.1109%2FMDAT.2025.3600359-blue)](https://doi.org/10.1109/MDAT.2025.3600359)
 
-- *Exploring Approximate Adders for an Energy-Efficient Pre-Processing Pan-Tompkins VLSI Design*  
-  SBCCI 2024  
-  DOI: 10.1109/SBCCI62366.2024.10703995 :contentReference[oaicite:3]{index=3}  
+- **Exploring Approximate Adders for an Energy-Efficient Pre-Processing Pan-Tompkins Algorithm VLSI Design**  
+  *SBCCI — 2024*  
+  [![DOI](https://img.shields.io/badge/DOI-10.1109%2FSBCCI62366.2024.10703995-blue)](https://doi.org/10.1109/SBCCI62366.2024.10703995)
 
-- *VLSI Architecture for Energy-Efficient and Accurate Pre-Processing Pan-Tompkins Design*  
-  IEEE TCS-II  
-  DOI: 10.1109/TCSII.2023.3241124 :contentReference[oaicite:4]{index=4}  
+- **VLSI Architecture for Energy-Efficient and Accurate Pre-Processing Pan-Tompkins Design**  
+  *IEEE Transactions on Circuits and Systems II — 2023*  
+  [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTCSII.2023.3241124-blue)](https://doi.org/10.1109/TCSII.2023.3241124)
 
 ---
 
