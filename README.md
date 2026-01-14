@@ -21,16 +21,14 @@ I design, implement and defend **R&D projects** under **Lei do Bem, Lei da Infor
 ### 🚀 Tech Stack
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="VHDL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vhdl/vhdl-original.svg"/>
-  <img align="center" alt="Verilog" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg"/>
+  <img align="center" alt="VHDL" height="30" src="icons/vhdl-svg.svg"/>
+  <img align="center" alt="Verilog" height="30" src="icons/verilog.svg"/>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
   <img align="center" alt="MATLAB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-  <img align="center" alt="GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-  <img align="center" alt="Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/> 
 </div>
 
 ---
