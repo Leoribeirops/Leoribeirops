@@ -1,88 +1,61 @@
-# 👋 Léo dos Santos Ribeiro
+## 👋 Hi, I’m Léo Ribeiro  
+**PhD Candidate in Computer Science | Electronics & Computer Engineer | R&D & Innovation Consultant**
 
-**PhD Candidate in Computer Science | Electronics & Computer Engineer | R&D and Innovation Consultant**
+I work at the intersection of **deep tech**, **scientific research**, and **large-scale digital transformation** — from **VLSI and biomedical signal processing** to **cloud platforms, AI and GovTech systems**.
 
-I work at the intersection of **advanced engineering**, **scientific R&D**, and **public and industrial innovation**.  
-My background combines **VLSI design**, **signal processing**, **AI**, **cloud computing**, and **regulatory-driven R&D (Lei do Bem / Lei da Informática)**.
-
----
-
-## 🧠 Research & Technical Focus
-
-My work spans both **deep technical engineering** and **large-scale digital transformation**, with emphasis on:
-
-- **VLSI Architectures & Low-Power Design**
-  - Approximate computing
-  - Digital filters and ECG processing
-  - FPGA and ASIC design (VHDL, Verilog, Cadence Genus)
-
-- **Biomedical Signal Processing**
-  - Pan-Tompkins algorithm
-  - QRS detection
-  - Energy-efficient wearable architectures
-  - MIT-BIH ECG database analysis
+I design, implement and defend **R&D projects** under **Lei do Bem, Lei da Informática and OECD Frascati**, bridging **engineering, regulation and innovation**.
 
 ---
 
-## 🏗️ R&D, Innovation & Policy
+### 🧠 Core Technical Domains
 
-I design, document and defend **technological R&D projects** under:
-
-- **Lei do Bem (Law 11.196/2005)**
-- **Lei da Informática**
-- **Manual de Frascati (OECD)**
-
-My work supports companies and institutions by:
-- Structuring **experimental development**
-- Identifying **technological uncertainty**
-- Mapping **TRL evolution**
-- Producing **MCTI-grade technical reports**
-- Defending projects in audits and technical reviews
+- 🧬 Biomedical Signal Processing (ECG, QRS, Pan-Tompkins)
+- 🔋 Low-Power & Approximate VLSI Architectures
+- 🧠 Artificial Intelligence & Data Engineering
+- ☁️ Cloud Computing & Distributed Systems
+- 🌍 GovTech, GeoSystems & Public Digital Platforms
+- 🧪 Experimental Development (R&D, TRL, Frascati, MCTI)
 
 ---
 
-## 🛠️ Technical Stack
+### 🚀 Tech Stack
 
-**Hardware & Low-Level**
-- VHDL, Verilog, SystemVerilog
-- FPGA, ASIC
-- Cadence Genus
-- ModelSim, MATLAB, Simulink
-
-**Software & Data**
-- Python, C/C++,
-- Data Engineering pipelines
-
----
-
-## 🎓 Academic Background
-
-- **PhD Candidate in Computer Science**
-- **MSc in Electronics & Computer Engineering**
-- Professor of Electronics, Digital Systems and Instrumentation
-
-My academic work focuses on **energy-efficient VLSI architectures for biomedical signal processing**.
+<div style="display: inline_block"><br>
+  <img align="center" alt="VHDL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vhdl/vhdl-original.svg"/>
+  <img align="center" alt="Verilog" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg"/>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+  <img align="center" alt="MATLAB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+  <img align="center" alt="GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
+  <img align="center" alt="Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+</div>
 
 ---
 
-## 📚 Publications & Research
+### 🧪 Research & Engineering
 
-- Low-power and approximate computing architectures for ECG processing  
-- VLSI optimization of the Pan-Tompkins algorithm  
-- Hardware-software co-design for wearable medical devices  
-
----
-
-## 🌍 What I Care About
-
-I am driven by projects that combine:
-- **Scientific rigor**
-- **Engineering depth**
-- **Regulatory relevance**
-- **Societal impact**
-
-From **wearable healthcare** to **environmental governance**, my goal is to turn **complex systems into reliable, scalable and auditable technology**.
+- Energy-efficient **VLSI architectures for ECG and QRS detection**
+- **Approximate computing** for ultra-low power medical devices
+- **Cloud-native data platforms** for government, agro and healthcare
+- **AI pipelines** for OCR, document intelligence and decision support
+- **Large-scale geo-information systems** (CAR, SICAR, land & environment)
 
 ---
 
-If you are working on **R&D, deep tech, GovTech, MedTech, or digital transformation**, feel free to reach out.
+### 🌐 Connect with me
+
+<div> 
+  <a href="https://www.linkedin.com" target="www.linkedin.com/in/engenheiroleoribeiro">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:engleosribeiro@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+> ⚡ I focus on building **auditable, scalable and scientifically grounded technology** for **healthcare, government, industry and finance**.
