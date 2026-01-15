@@ -6,11 +6,24 @@
   </p>
 </div>
 
-I am a **researcher and R&D consultant** working at the intersection of  
-**deep tech, scientific research and innovation-driven business**.
+I am a **researcher and R&D consultant** working at the intersection of **deep tech, scientific research and innovation-driven business**.
 
 My work connects **VLSI architectures, biomedical signal processing, AI, cloud platforms and public digital systems** with **R&D policy and tax-incentive frameworks** such as **Lei do Bem** and **Lei da Informática**.
 
+---
+
+### 🛠️ Tech Stack
+
+<div style="display: inline_block"><br>
+   <img align="center" alt="VHDL" height="30" src="icons/vhdl-svg.svg"/>
+  <img align="center" alt="Verilog" height="30" src="icons/verilog.svg"/>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+  <img align="center" alt="MATLAB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+ 
 ---
 
 ### 🧠 What I do
@@ -67,19 +80,7 @@ This work supports **next-generation wearable medical devices**. :contentReferen
 
 ---
 
-### 🛠️ Tech Stack
 
-<div style="display: inline_block"><br>
-   <img align="center" alt="VHDL" height="30" src="icons/vhdl-svg.svg"/>
-  <img align="center" alt="Verilog" height="30" src="icons/verilog.svg"/>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-  <img align="center" alt="MATLAB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
- 
----
 
 ### 🏗️ R&D & Innovation Consulting
 
