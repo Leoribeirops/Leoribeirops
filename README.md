@@ -90,7 +90,7 @@ I help companies structure **scientific and technological projects** to access:
 - **Lei da Informática**
 - **Public and private R&D funding**
 
-I produce **MCTI-grade technical documentation**, map **technological uncertainty**, and align **engineering with regulation**. :contentReference[oaicite:5]{index=5}
+I produce **MCTI-grade technical documentation**, map **technological uncertainty**, and align **engineering with regulation**.
 
 ---
 
