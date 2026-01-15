@@ -8,6 +8,8 @@ My work connects **VLSI architectures, biomedical signal processing, AI, cloud p
 
 ---
 
+[![Léo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leoribeirops)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🧠 What I do
 
 - 🧬 **Biomedical Signal Processing**
