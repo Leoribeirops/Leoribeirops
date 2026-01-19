@@ -12,6 +12,16 @@ My work connects **VLSI architectures, biomedical signal processing, AI, cloud p
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Leoribeirops/Leoribeirops/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Leoribeirops/Leoribeirops/output/snake.svg">
+  <img alt="github contribution snake"
+       src="https://raw.githubusercontent.com/Leoribeirops/Leoribeirops/output/snake.svg">
+</picture>
+
+
 ### 🛠️ Tech Stack
 
 <div style="display: inline_block"><br>
