@@ -12,6 +12,8 @@ My work connects **VLSI architectures, biomedical signal processing, AI, cloud p
 
 ---
 
+![Léo Ribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Leoribeirops&show_icons=true&theme=dracula)
+
 ### 🛠️ Tech Stack
 
 <div style="display: inline_block"><br>
@@ -105,13 +107,15 @@ I produce **MCTI-grade technical documentation**, map **technological uncertaint
 
 ---
 
-> I focus on building **scientifically grounded, auditable and scalable technology** for **healthcare, government and industry**.
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Leoribeirops/Leoribeirops/output/pacman-contribution-graph-dark.svg">
+          srcset="https://raw.githubusercontent.com/Leoribeirops/Leoribeirops/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Leoribeirops/Leoribeirops/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
-       src="https://raw.githubusercontent.com/Leoribeirops/Leoribeirops/output/pacman-contribution-graph.svg">
+          srcset="https://raw.githubusercontent.com/Leoribeirops/Leoribeirops/output/snake.svg">
+  <img alt="snake contribution animation"
+       src="https://raw.githubusercontent.com/Leoribeirops/Leoribeirops/output/snake.svg">
 </picture>
+
+
+> I focus on building **scientifically grounded, auditable and scalable technology** for **healthcare, government and industry**.
+
