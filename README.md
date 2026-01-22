@@ -14,13 +14,12 @@ My work connects **VLSI architectures, biomedical signal processing, AI, cloud p
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Leoribeirops/Leoribeirops/output/snake-dark.svg">
+          srcset="https://raw.githubusercontent.com/Leoribeirops/Leoribeirops/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Leoribeirops/Leoribeirops/output/snake.svg">
-  <img alt="github contribution snake"
-       src="https://raw.githubusercontent.com/Leoribeirops/Leoribeirops/output/snake.svg">
+          srcset="https://raw.githubusercontent.com/Leoribeirops/Leoribeirops/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+       src="https://raw.githubusercontent.com/Leoribeirops/Leoribeirops/output/pacman-contribution-graph.svg">
 </picture>
-
 
 ### 🛠️ Tech Stack
 
@@ -89,8 +88,6 @@ This work supports **next-generation wearable medical devices**. :contentReferen
   [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTCSII.2023.3241124-blue)](https://doi.org/10.1109/TCSII.2023.3241124)
 
 ---
-
-
 
 ### 🏗️ R&D & Innovation Consulting
 
