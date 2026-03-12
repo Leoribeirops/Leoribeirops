@@ -125,11 +125,11 @@ My goal is to translate **advanced engineering research into real-world innovati
     <td>Python, MATLAB, C/C++, algorithm prototyping</td>
   </tr>
 
-  <tr>
-    <td><b>AI & Data Systems</b></td>
-    <td align="center"><b>Applied</b></td>
-    <td>OCR systems, document intelligence, decision support pipelines</td>
-  </tr>
+<tr>
+  <td><b>AI-Driven Digital Systems</b></td>
+  <td align="center"><b>Applied</b></td>
+  <td>Document intelligence, automated decision pipelines, data-driven platforms</td>
+</tr>
 
   <tr>
     <td><b>R&D Strategy & Innovation Policy</b></td>
